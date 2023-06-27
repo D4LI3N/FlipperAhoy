@@ -69,25 +69,25 @@ The primary objective of Flipper Ahoy is to achieve the highest score possible. 
 # Release
 [![badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://opensource.org/license/mit)
 (MD5 Checksum:)
-__
+<br>
 
 
 [![badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://opensource.org/license/mit)
 (MD5 Checksum:)
-__
+<br>
 
 [![badge](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)](https://opensource.org/license/mit)
 (MD5 Checksum:)
-__
+<br>
 
 [![badge](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://opensource.org/license/mit)
 (MD5 Checksum:)
-__
+<br>
 
 [![badge](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)](https://opensource.org/license/mit)
 (MD5 Checksum:)
-__
+<br>
 
 [![badge](https://img.shields.io/badge/PlayStation_5-003791?style=for-the-badge&logo=playstation&logoColor=white)](https://opensource.org/license/mit)
 (MD5 Checksum:)
-__
+<br>
