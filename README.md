@@ -5,7 +5,7 @@
 [![badge](https://img.shields.io/badge/publication-danielthecyberdude.com-purple.svg)](https://danielthecyberdude.com/project/shas)
 
 
-![badge](https://img.shields.io/badge/technology-C#-green.svg)
+![badge](https://img.shields.io/badge/technology-C\#-green.svg)
 ![badge](https://img.shields.io/badge/technology-Unity-green.svg)
 ![badge](https://img.shields.io/badge/technology-Blender-green.svg)
 
@@ -14,7 +14,10 @@
 
 
 
-**Flipper Ahoy** is an exciting pirate-themed pinball game that takes players on a thrilling adventure across the high seas. With its cross-platform 3D design, this single codebase game allows you to enjoy the action-packed gameplay on various devices and operating systems. Score points by skillfully guiding the ball to hit strategically placed barrels while navigating through treacherous obstacles. Immerse yourself in the immersive world of Flipper Ahoy and unleash your inner pinball pirate as you aim for high scores and conquer the seas of excitement.
+**Flipper Ahoy** is an exciting pirate-themed pinball game that takes players on a thrilling adventure across the high seas.
+With its cross-platform 3D design, this single codebase game allows you to enjoy the action-packed gameplay on various devices and operating systems.
+Score points by skillfully guiding the ball to hit strategically placed barrels while navigating through treacherous obstacles.
+Immerse yourself in the immersive world of Flipper Ahoy and unleash your inner pinball pirate as you aim for high scores and conquer the seas of excitement.
 
 # Project Features
 - Cross-platform (adjusted for 6 platforms)
