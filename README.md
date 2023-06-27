@@ -77,5 +77,5 @@ The primary objective of Flipper Ahoy is to achieve the highest score possible. 
 (MD5 Checksum:)
 [![badge](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)](https://opensource.org/license/mit)
 (MD5 Checksum:)
-[![badge](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)](https://opensource.org/license/mit)
+[![badge](https://img.shields.io/badge/PlayStation_5-003791?style=for-the-badge&logo=playstation&logoColor=white)](https://opensource.org/license/mit)
 (MD5 Checksum:)
