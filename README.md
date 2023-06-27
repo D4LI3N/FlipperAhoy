@@ -5,7 +5,7 @@
 [![badge](https://img.shields.io/badge/publication-danielthecyberdude.com-purple.svg)](https://danielthecyberdude.com/project/shas)
 
 
-![badge](https://img.shields.io/badge/technology-C_#-green.svg)
+![badge](https://img.shields.io/badge/technology-C__#-green.svg)
 ![badge](https://img.shields.io/badge/technology-Unity-green.svg)
 ![badge](https://img.shields.io/badge/technology-Blender-green.svg)
 
@@ -67,24 +67,24 @@ The primary objective of Flipper Ahoy is to achieve the highest score possible. 
 - Irish Rovers and 8bit Universe - for backround music
 
 # Release
-[![badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://opensource.org/license/mit)__
+[![badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://opensource.org/license/mit)
 (MD5 Checksum:)____
 
 
-[![badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://opensource.org/license/mit)__
+[![badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://opensource.org/license/mit)
 (MD5 Checksum:)____
 
-[![badge](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)](https://opensource.org/license/mit)__
-(MD5 Checksum:)____
-
-
-[![badge](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://opensource.org/license/mit)__
+[![badge](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)](https://opensource.org/license/mit)
 (MD5 Checksum:)____
 
 
-[![badge](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)](https://opensource.org/license/mit)__
+[![badge](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://opensource.org/license/mit)
 (MD5 Checksum:)____
 
 
-[![badge](https://img.shields.io/badge/PlayStation_5-003791?style=for-the-badge&logo=playstation&logoColor=white)](https://opensource.org/license/mit)__
+[![badge](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)](https://opensource.org/license/mit)
+(MD5 Checksum:)____
+
+
+[![badge](https://img.shields.io/badge/PlayStation_5-003791?style=for-the-badge&logo=playstation&logoColor=white)](https://opensource.org/license/mit)
 (MD5 Checksum:)____
