@@ -65,3 +65,11 @@ The primary objective of Flipper Ahoy is to achieve the highest score possible. 
 - NVJOB - for water shader
 - Nokobot - for background ship models
 - Irish Rovers and 8bit Universe - for backround music
+
+# Release
+[![badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://opensource.org/license/mit) (MD5 Checksum:)
+Linux
+Mac
+Android
+IOS
+PS5
