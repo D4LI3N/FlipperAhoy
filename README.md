@@ -5,7 +5,7 @@
 [![badge](https://img.shields.io/badge/publication-danielthecyberdude.com-purple.svg)](https://danielthecyberdude.com/project/shas)
 
 
-![badge](https://img.shields.io/badge/technology-C %23-green.svg)
+![badge](https://img.shields.io/badge/technology-C__%23-green.svg)
 ![badge](https://img.shields.io/badge/technology-Unity-green.svg)
 ![badge](https://img.shields.io/badge/technology-Blender-green.svg)
 
