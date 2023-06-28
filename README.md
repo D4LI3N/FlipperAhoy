@@ -66,7 +66,7 @@ The primary objective of Flipper Ahoy is to achieve the highest score possible. 
 - Nokobot - for background ship models
 - Irish Rovers and 8bit Universe - for backround music
 
-# Release
+# Releases
 [![badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://drive.google.com/uc?export=download&id=1_POMQ4VKVt5akGABjcFmuYUbDBMREScY)
 (MD5 Checksum: 4a2549652d08180a89dd0116480048bf)
 <br>
