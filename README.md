@@ -5,7 +5,7 @@
 [![badge](https://img.shields.io/badge/publication-danielthecyberdude.com-purple.svg)](https://danielthecyberdude.com/project/shas)
 
 
-![badge](https://img.shields.io/badge/technology-C_%23-green.svg)
+![badge](https://img.shields.io/badge/technology-C %23-green.svg)
 ![badge](https://img.shields.io/badge/technology-Unity-green.svg)
 ![badge](https://img.shields.io/badge/technology-Blender-green.svg)
 
@@ -20,7 +20,7 @@ Score points by skillfully guiding the ball to hit strategically placed barrels 
 Immerse yourself in the immersive world of Flipper Ahoy and unleash your inner pinball pirate as you aim for high scores and conquer the seas of excitement.
 
 # Project Features
-- Cross-platform (adjusted for 6 platforms)
+- Cross-platform (adjusted for 5 platforms)
 - Single codebase
 - 3D design
 - Auto adjustable controls (touch, keyboard, gamepad)
@@ -88,6 +88,3 @@ The primary objective of Flipper Ahoy is to achieve the highest score possible. 
 (MD5 Checksum:)
 <br>
 
-[![badge](https://img.shields.io/badge/PlayStation_5-003791?style=for-the-badge&logo=playstation&logoColor=white)](https://opensource.org/license/mit)
-(MD5 Checksum:)
-<br>
