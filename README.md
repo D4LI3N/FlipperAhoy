@@ -88,4 +88,4 @@ The primary objective of Flipper Ahoy is to achieve the highest score possible. 
 (MD5 Checksum: c1937eb0abcd5ea4dab7be5afecce635)
 <br>
 
-**Note:** The Releases are not signed, so expect some Antivirus popups. (or feel free to compile the sources yourself)
+**Note:** The Releases are not signed, so expect some Antivirus popups. (or feel free to compile the game yourself :)
