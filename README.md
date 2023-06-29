@@ -67,24 +67,24 @@ The primary objective of Flipper Ahoy is to achieve the highest score possible. 
 - Irish Rovers and 8bit Universe - for backround music
 
 # Releases
-[![badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://drive.google.com/uc?export=download&id=1_POMQ4VKVt5akGABjcFmuYUbDBMREScY)
+[![badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/D4LI3N/FlipperAhoy/releases/download/V1.0/Flipper.Ahoy-Windows.zip)
 (MD5 Checksum: 4a2549652d08180a89dd0116480048bf)
 <br>
 
 
-[![badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://drive.google.com/uc?export=download&id=1eASaIKWTD5U3hQFi1TARNzF8Pesjp2Zk)
+[![badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/D4LI3N/FlipperAhoy/releases/download/V1.0/Flipper.Ahoy-Linux.zip)
 (MD5 Checksum: b62a8462614a4cd8354d3246f3be2506)
 <br>
 
-[![badge](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)](https://drive.google.com/uc?export=download&id=1Gh5tYi0S6LxslF1RbDHE5C2heq9m4O2r)
+[![badge](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/D4LI3N/FlipperAhoy/releases/download/V1.0/Flipper.Ahoy-MacOS.app.zip)
 (MD5 Checksum: c1937eb0abcd5ea4dab7be5afecce635)
 <br>
 
-[![badge](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://drive.google.com/uc?export=download&id=1R_8NhDIwOLrLH-eR1pciqnHDd2xVplvf)
+[![badge](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/D4LI3N/FlipperAhoy/releases/download/V1.0/FlipperAhoy-Android.apk)
 (MD5 Checksum: 2551e8fd783aeb2f35f6ebc377c171e1)
 <br>
 
-[![badge](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)](https://drive.google.com/uc?export=download&id=19aRHrUpdY6bder2XUG8vJXbgvtK6gdza)
+[![badge](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)](https://github.com/D4LI3N/FlipperAhoy/releases/download/V1.0/Flipper.Ahoy-IOS.app.zip)
 (MD5 Checksum: c1937eb0abcd5ea4dab7be5afecce635)
 <br>
 
