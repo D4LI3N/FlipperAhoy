@@ -20,12 +20,17 @@ Score points by skillfully guiding the ball to hit strategically placed barrels 
 Immerse yourself in the immersive world of Flipper Ahoy and unleash your inner pinball pirate as you aim for high scores and conquer the seas of excitement.
 
 # Project Features
-- Cross-platform (adjusted for 5 platforms)
-- Single codebase
-- 3D design
-- Auto adjustable controls (touch, keyboard, gamepad)
-- All 3 control types can be used on all platforms in the same time
-- Score persistance
+✔️ Cross-platform (adjusted for 5 platforms)
+
+✔️ Single codebase
+
+✔️ 3D design
+
+✔️ Auto adjustable controls (touch, keyboard, gamepad)
+
+✔️ All 3 control types can be used on all platforms in the same time
+
+✔️ Score persistance
 
 # Operation
 ## Setup
